@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="27.432821">
+<testcase classname="Login Page Verification" name="Achieve application Media processor Login scenario" time="27.432821">
+<system-out><![CDATA[Given I am on Achieve Int environment.......................................passed
+And I want Title of page....................................................passed
+When I provide "sfqatest13mqy20@yopmail.com" and "Qait@123".................passed
+Then I lands on Homepage of Achieve Media processeor........................passed
+Then I close the browser....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
